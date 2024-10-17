@@ -1,5 +1,7 @@
 # Hola 💬
 ![react](https://github.com/user-attachments/assets/c56e74f2-8840-4c30-bf90-a268738872da)
+![a7dc8dcdcbcba8b90ca80f5ef25bd269](https://github.com/user-attachments/assets/279babdd-1372-4156-a9dc-784207f33159)
+
 
 Soy un ingeniero de software dedicado a mejorar la accesibilidad del código abierto, crear soluciones tecnológicas innovadoras en IoT y contribuir al desarrollo de comunidades de aprendizaje.
 
