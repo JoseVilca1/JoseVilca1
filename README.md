@@ -8,7 +8,10 @@ Ingeniero de sistemas enfocado en la innovación tecnológica y en el desarrollo
 
 Encuéntrame en la web 🌎:
 - Explorando nuevas ideas en <a href="https://codepen.io/pen/">Codepen</a> 🏓
-- Manteniéndome conectado en <a href="www.linkedin.com/in/josè-luis-vilca-paniagua-6b3942315">LinkedIn</a> 💼
+- Manteniéndome conectado en <a href="https://www.linkedin.com/in/jose-luis-vilca-paniagua-6b3942315" target="_blank">
+  LinkedIn
+</a>
+
 
 ---
 ⭐️ From [José Vilca](https://github.com/JoseVilca)
